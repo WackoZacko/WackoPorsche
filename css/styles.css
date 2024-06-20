@@ -1,0 +1,99 @@
+.button {
+    background-color: ##f0f0f0;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 10%;
+  }
+  
+  .button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000;
+  }
+  
+  .button5:hover {
+    background-color: #000;
+    color: white;
+  }
+  
+  div.button img {
+    border-radius: 10%;
+    display: block;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 0px;
+  }
+  
+  div.button img:hover {
+    transform: scale(1.02);
+  }
+  
+  div.button2 img {
+    border-radius: 10%;
+    display: block;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 0px;
+  }
+  
+  div.button2 img:hover {
+    transform: scale(1.02);
+  }
+  
+  div.button3 img {
+    border-radius: 10%;
+    display: block;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 0px;
+  }
+  
+  div.button3 img:hover {
+    transform: scale(1.02);
+  }
+  
+  div.button4 img {
+    border-radius: 10%;
+    display: block;
+    transition: transform 0.3s ease-in-out;
+    margin-top: 0px;
+  }
+  
+  div.button4 img:hover {
+    transform: scale(1.02);
+  }
+  
+  .button-container,
+  .button-container2 {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .button,
+  .button2,
+  .button3,
+  .button4 {
+    flex: 1;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  .button-container2 {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .button3,
+  .button4 {
+    flex: 1;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+  }
+  
